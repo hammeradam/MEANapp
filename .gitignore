@@ -29,7 +29,11 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 # Compiled binary addons (https://nodejs.org/api/addons.html)
+=======
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+>>>>>>> 4aa3845666a883110aeb43af86b5390417e87e5b
 build/Release
 
 # Dependency directories
@@ -56,3 +60,7 @@ typings/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4aa3845666a883110aeb43af86b5390417e87e5b
