@@ -8,18 +8,18 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "*",
-    "mongoose": "*",
     "bcryptjs": "*",
-    "cors": "*",
-    "jsonwebtoken": "*",
     "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "^4.13.4",
     "passport": "*",
     "passport-jwt": "*"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular/cli": "^1.5.0"
+    "@angular/cli": "^1.5.2"
   }
 }
